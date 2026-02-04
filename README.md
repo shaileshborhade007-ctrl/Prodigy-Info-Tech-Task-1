@@ -5,4 +5,23 @@ This project is part of **Prodigy InfoTech – Data Science Internship (Task-01)
 
 For this task, we used a **population dataset from the World Bank** and created visualizations to understand the distribution of population across countries.
 
+## Dataset
+
+The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_DS_01/blob/main/worldpopulationdata.csv">world_population_dataset</a>. This dataset contains records of population from the year 2001 to 2022. 
+
+## Tools and Libraries used
+- Jupyter notebook
+- Pandas
+- Numpy
+- Matplotlip & Seaborn for visualization
+
+
+
+## Exploratory Data Analysis (EDA)
+
+During the EDA process, I performed the following steps:
+
+1. **Data Cleaning**: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
+
+2. **Visualization**: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable. 
 
