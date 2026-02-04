@@ -27,7 +27,7 @@ During the EDA process, I performed the following steps:
 
 ## Conclusion
 
-n this task, bar charts and histograms were successfully used to visualize the distribution of both categorical
+In this task, bar charts and histograms were successfully used to visualize the distribution of both categorical
 and continuous variables from the dataset. The histogram helped in understanding how population values are distributed,
 revealing that most countries fall within lower population ranges,while only a few countries have extremely high populations.
 Bar charts were used to compare population values across different countries and years, making it easy to identify the most 
